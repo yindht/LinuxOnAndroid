@@ -16,9 +16,11 @@ Accessory:
 3.Bluetooth dongle(option)
 
 Device support List:
-Samsung S9,S10,S20
+Samsung S9/10/20,Note8/8/10
 OnePlsu 7,7Pro
-LG  G7,G8
+LG  G7,G8,V30,V35,V40,V50
 ZTE Axon9,Axon10
+HTC U11 U12
 
-Kernel
+
+
